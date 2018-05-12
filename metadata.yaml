@@ -1,0 +1,28 @@
+_repo: International-Conference-Held-at-Washington-for-the-Purpose-of-Fixing-a-Prime-Meridian-and-a-__17759
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: 'International Meridian Conference (1884 : Washington, D.C.)'
+    gutenberg_agent_id: '38341'
+    url: http://www.gutenberg.org/2009/agents/38341
+description: ''
+gutenberg_issued: '2006-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17759'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Prime Meridian -- Congresses'
+- !lcsh 'Time -- Systems and standards -- Congresses'
+title: 'International Conference Held at Washington for the Purpose of Fixing a Prime
+  Meridian and a Universal Day. October, 1884.
+
+  Protocols of the Proceedings'
+url: http://www.gutenberg.org/ebooks/17759
